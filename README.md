@@ -1,7 +1,8 @@
 # cool-spring-stuff-logger
-Spring Boot Logger
 
-Technologies used :
+
+
+# Spring Boot SLF4j Logback example (Technologies used) :
 
 Spring Boot 2.1.2.RELEASE
 
